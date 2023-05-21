@@ -1,0 +1,7 @@
+.flexcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    grid-row: 33%, 33%, 33%;
+    height: 100px;
+    width: 100px;
+}
